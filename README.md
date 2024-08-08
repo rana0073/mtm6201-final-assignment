@@ -19,4 +19,4 @@ The development process started with creating a detailed design for all three pa
 ## Assets and Resources
 - **Frameworks**: [Bootstrap](https://getbootstrap.com/)
 - **Fonts**: Google Fonts
-- **Images**: Stock images with proper attribution if any.
+- **Images**: Stock images from Adobe Stock with acquied licenses.
